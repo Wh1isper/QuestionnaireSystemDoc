@@ -23,3 +23,7 @@ Python+JS，详细见上方前后端代码地址
 采用敏捷开发
 
 此项目作为文档管理，主要由markdown语言书写，便于协作
+
+### 功能规划及进度：
+
+![](https://raw.githubusercontent.com/Wh1isper/QuestionnaireSystemDoc/master/%E5%BD%93%E5%89%8D%E8%BF%9B%E5%BA%A6.jpg)
