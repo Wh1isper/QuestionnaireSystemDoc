@@ -10,6 +10,8 @@
 
 DOC : https://github.com/Wh1isper/QuestionnaireSystemDoc
 
+## 当前版本 V1.0已发版
+
 ### 维护人员
 
 见[Contributors](https://github.com/Wh1isper/QuestionnaireSystemDoc/graphs/contributors)
